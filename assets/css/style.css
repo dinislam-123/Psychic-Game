@@ -1,0 +1,19 @@
+#win, #loss, #guessleft, #guessletter, p
+{
+    font-size: 25px;
+}
+
+.row
+{
+    margin: 10px;
+}
+#win, #loss, #guessleft
+{
+    width:30px;
+}
+#main-col
+{
+margin-left:100px;
+width: 600px;
+background-color: darkgray;
+}
